@@ -1080,7 +1080,7 @@ footer {
     gap: 3rem;
   }
   .hero-visual {
-    order: -1;
+    order: 1;
   }
   .hero-card {
     max-width: 100%;
